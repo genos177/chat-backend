@@ -1,3 +1,5 @@
+
+#Clone the repository
 ```bash
    git clone https://github.com/genos177/chat-backend.git
    cd chat-backend
@@ -9,6 +11,6 @@
    ```
    #Start the development server:
    ```
-   npm run s
+   npm run start
    ```
 
